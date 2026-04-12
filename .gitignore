@@ -1,0 +1,28 @@
+# Visual Studio 相关
+.vs/
+*.ipch
+*.db
+*.opendb
+
+# 编译输出
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.log
+
+# 用户设置
+*.user
+*.suo
+*.sln.docstates
+
+# 临时文件
+*.tmp
+*.temp
+*.cache
