@@ -1,0 +1,24 @@
+﻿  pch.cpp
+  SortAlgorithmLib.cpp
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmLib\SortAlgorithmLib.cpp(16,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmLib.cpp”)
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmLib\SortAlgorithmLib.cpp(32,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmLib.cpp”)
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmLib\SortAlgorithmLib.cpp(49,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmLib.cpp”)
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmLib\SortAlgorithmLib.cpp(64,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmLib.cpp”)
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmLib\SortAlgorithmLib.cpp(113,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmLib.cpp”)
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmLib\SortAlgorithmLib.cpp(148,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmLib.cpp”)
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmLib\SortAlgorithmLib.cpp(170,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmLib.cpp”)
+  
+  SortAlgorithmLib.vcxproj -> D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmLib\x64\Debug\SortAlgorithmLib.lib

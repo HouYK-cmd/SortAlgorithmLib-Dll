@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../SortAlgorithmDll/SortAlgorithmDll.vcxproj" />
+  <Project Path="../SortAlgorithmDllTest/SortAlgorithmDllTest.vcxproj" />
+  <Project Path="../SortAlgorithmLibTest/SortAlgorithmLibTest.vcxproj" />
+  <Project Path="SortAlgorithmLib.vcxproj" />
+</Solution>

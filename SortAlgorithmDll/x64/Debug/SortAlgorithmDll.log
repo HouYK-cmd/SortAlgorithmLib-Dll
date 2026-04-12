@@ -1,0 +1,66 @@
+﻿  pch.cpp
+  dllmain.cpp
+  SortAlgorithmDll.cpp
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  (编译源文件“/SortAlgorithmDll.cpp”)
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(14,24): warning C4273: “algorithmDynamic::BubbleSort”: dll 链接不一致
+  (编译源文件“/SortAlgorithmDll.cpp”)
+      D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.h(15,17):
+      参见“algorithmDynamic::BubbleSort”的前一个定义
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(15,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmDll.cpp”)
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(30,24): warning C4273: “algorithmDynamic::SelectionSort”: dll 链接不一致
+  (编译源文件“/SortAlgorithmDll.cpp”)
+      D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.h(16,17):
+      参见“algorithmDynamic::SelectionSort”的前一个定义
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(31,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmDll.cpp”)
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(47,24): warning C4273: “algorithmDynamic::InsertionSort”: dll 链接不一致
+  (编译源文件“/SortAlgorithmDll.cpp”)
+      D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.h(17,17):
+      参见“algorithmDynamic::InsertionSort”的前一个定义
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(48,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmDll.cpp”)
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(62,24): warning C4273: “algorithmDynamic::ShellSort”: dll 链接不一致
+  (编译源文件“/SortAlgorithmDll.cpp”)
+      D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.h(18,17):
+      参见“algorithmDynamic::ShellSort”的前一个定义
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(63,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmDll.cpp”)
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(111,24): warning C4273: “algorithmDynamic::MergeSort”: dll 链接不一致
+  (编译源文件“/SortAlgorithmDll.cpp”)
+      D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.h(19,17):
+      参见“algorithmDynamic::MergeSort”的前一个定义
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(112,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmDll.cpp”)
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(146,24): warning C4273: “algorithmDynamic::QuickSort”: dll 链接不一致
+  (编译源文件“/SortAlgorithmDll.cpp”)
+      D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.h(21,17):
+      参见“algorithmDynamic::QuickSort”的前一个定义
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(147,39): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmDll.cpp”)
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(168,24): warning C4273: “algorithmDynamic::HeapSort”: dll 链接不一致
+  (编译源文件“/SortAlgorithmDll.cpp”)
+      D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.h(20,17):
+      参见“algorithmDynamic::HeapSort”的前一个定义
+  
+D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\SortAlgorithmDll.cpp(169,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“/SortAlgorithmDll.cpp”)
+  
+  正在生成代码...
+    正在创建库 D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\x64\Debug\SortAlgorithmDll.lib 和对象 D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\x64\Debug\SortAlgorithmDll.exp
+  SortAlgorithmDll.vcxproj -> D:\Codes\VS2026\SortAlgorithmLib&Dll\SortAlgorithmDll\x64\Debug\SortAlgorithmDll.dll
