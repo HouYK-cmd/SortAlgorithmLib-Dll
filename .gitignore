@@ -1,0 +1,63 @@
+# ==================== Visual Studio ====================
+.vs/
+*.ipch
+*.db
+*.opendb
+
+# ==================== 编译输出 ====================
+x64/
+Debug/
+Release/
+*.obj
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.manifest
+
+# ==================== NuGet 包 ====================
+packages/
+*.nupkg
+
+# ==================== 测试结果 ====================
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# ==================== 用户设置 ====================
+*.user
+*.suo
+*.sln.docstates
+*.vsconfig
+
+# ==================== 临时文件 ====================
+*.tmp
+*.temp
+*.cache
+*.bak
+*.swp
+
+# ==================== 系统文件 ====================
+Thumbs.db
+.DS_Store
+Desktop.ini
+
+# ==================== Python 虚拟环境（如果有） ====================
+venv/
+env/
+.venv/
+py_env/
+__pycache__/
+*.pyc
+*.pyo
+
+# ==================== 其他 ====================
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.VC.opendb
