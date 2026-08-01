@@ -3,8 +3,8 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="../SortAlgorithmDll/SortAlgorithmDll.vcxproj" Id="6986336f-51de-4dba-b3c9-6429da577f72" />
-  <Project Path="../SortAlgorithmDllTest/SortAlgorithmDllTest.vcxproj" Id="d7760894-d61e-442e-90ba-b7183b05c876" />
-  <Project Path="../SortAlgorithmLibTest/SortAlgorithmLibTest.vcxproj" Id="884263e7-7ac5-426d-95fa-aa58c854875f" />
-  <Project Path="SortAlgorithmLib.vcxproj" Id="dee5dfd8-02b8-45f0-98c3-36850e726650" />
+  <Project Path="../SortAlgorithmDll/SortAlgorithmDll.vcxproj" />
+  <Project Path="../SortAlgorithmDllTest/SortAlgorithmDllTest.vcxproj" />
+  <Project Path="../SortAlgorithmLibTest/SortAlgorithmLibTest.vcxproj" />
+  <Project Path="SortAlgorithmLib.vcxproj" />
 </Solution>
